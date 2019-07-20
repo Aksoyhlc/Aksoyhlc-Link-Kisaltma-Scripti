@@ -1,0 +1,11 @@
+<IfModule mod_security.c>
+SecFilterEngine Off
+SecFilterScanPOST Off
+</IfModule>
+
+RewriteEngine On
+
+RewriteCond $1 !^(assets|yonetim|dosyalar|islemler|panel)
+RewriteRule ^([0-9a-zA-Z-_/]+)$ link.php?link=$1 [NC,L]
+
+ErrorDocument 404 /404.php
