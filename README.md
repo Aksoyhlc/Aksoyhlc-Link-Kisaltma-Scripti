@@ -20,3 +20,6 @@ Bu script, "Creative Commons 4.0 (CC BY-NC-ND 4.0)" lisansı altında lisanslanm
 
 ***English***
 This script is licensed under "creative commons 4.0 (CC BY-NC-ND 4.0)" license. You can't sell for a fee, you have to share my name when you share it somewhere.
+
+***Aksoyhlc PHP Link Kısaltma Scripti***
+***Aksoyhlc PHP Link Shortener Script***
