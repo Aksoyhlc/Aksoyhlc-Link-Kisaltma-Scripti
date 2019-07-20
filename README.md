@@ -7,6 +7,13 @@ Demo Link: https://kisalink.aksoyhlc.net
 ## Ücretli Versiyon-Paid Version Demo
 Demo Link: https://kisalinkpro.aksoyhlc.net
 
+## İndirme-Download
+**Direkt İndirme**: [Direkt İndimek İçin Buraya Tıklayın](https://github.com/Aksoyhlc/Aksoyhlc-Link-Kisaltma-Scripti/archive/master.zip)
+
+**Yandex:** [https://yadi.sk/d/si2_Lsaa57hZUA](https://yadi.sk/d/si2_Lsaa57hZUA)
+
+**Github**: [https://github.com/Aksoyhlc/Aksoyhlc-Link-Kisaltma-Scripti/](https://github.com/Aksoyhlc/Aksoyhlc-Link-Kisaltma-Scripti/)
+
 ## Kurulum-Install
 ***Türkçe***
 Gerekli dosyaları hostunuza-sunucunuza yükleyin sonra yeni bir veritabanı oluşturup dosyalar içerisindeki SQL dosyasını içe aktarın. Başka bir şey yapmanıza gerek yok.
