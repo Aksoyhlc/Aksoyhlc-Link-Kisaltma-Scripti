@@ -4,8 +4,8 @@
 ## Demo
 Demo Link: https://kisalink.aksoyhlc.net
 
-## Ücretli Versiyon-Paid Version Demo
-Demo Link: https://kisalinkpro.aksoyhlc.net
+## Ücretli Versiyon-Paid Version
+Link: https://www.aksoyhlc.net/aksoyhlc-php-link-kisaltma-scripti-pro-mobil-uyumlu/
 
 ## İndirme-Download
 **Direkt İndirme**: [Direkt İndimek İçin Buraya Tıklayın](https://github.com/Aksoyhlc/Aksoyhlc-Link-Kisaltma-Scripti/archive/master.zip)
