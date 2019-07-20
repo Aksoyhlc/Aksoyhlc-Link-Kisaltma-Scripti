@@ -1,4 +1,11 @@
+
 # Aksoyhlc Link Kısaltma Scripti
+
+## Demo
+Demo Link: https://kisalink.aksoyhlc.net
+
+## Ücretli Versiyon-Paid Version Demo
+Demo Link: https://kisalinkpro.aksoyhlc.net
 
 ## Kurulum-Install
 ***Türkçe***
