@@ -28,5 +28,11 @@ Bu script, "Creative Commons 4.0 (CC BY-NC-ND 4.0)" lisansı altında lisanslanm
 ***English***
 This script is licensed under "creative commons 4.0 (CC BY-NC-ND 4.0)" license. You can't sell for a fee, you have to share my name when you share it somewhere.
 
+## İletişim-Contacts
+İletişim:
+***Skype:*** Aksoyhlc (önerilen)
+***Mail:*** aksoyhlc@gmail.com | 27aksoy27@gmail.com | admin@aksoyhlc.net
+***Link:*** https://www.aksoyhlc.net/iletisim
+
 ***Aksoyhlc PHP Link Kısaltma Scripti***
 ***Aksoyhlc PHP Link Shortener Script***

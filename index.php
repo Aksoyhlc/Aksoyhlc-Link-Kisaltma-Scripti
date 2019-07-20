@@ -1,3 +1,17 @@
+<?php 
+/*
+Türkçe 
+Bu script, "Creative Commons 4.0 (CC BY-NC-ND 4.0)" lisansı altında lisanslanmıştır. Bir ücret karşılığında satış yapamazsınız, bir yerde paylaştığınızda adımı paylaşmak zorundasınız, kendinize aitmiş gibi paylaşım yapamazsınız.
+
+İletişim:
+Skype: Aksoyhlc (önerilen)
+Mail: aksoyhlc@gmail.com | 27aksoy27@gmail.com | admin@aksoyhlc.net
+Link: https://www.aksoyhlc.net/iletisim
+
+English 
+This script is licensed under "creative commons 4.0 (CC BY-NC-ND 4.0)" license. You can't sell for a fee, you have to share my name when you share it somewhere.
+*/
+ ?>
 <?php include 'header.php'; ?>
 
 <div class="container-fluid mt-2 icerik">
